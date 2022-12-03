@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "id": "kocak-7989sdf9sd86fs9",
+            "sender": "Anonymous",
+            "message": "Ni orang kocak gaming gaes",
+            "comments": [
+                { "id": "kocak-f87sd6s86", "author": true, "message": "mangsud bang ?", "postedAt": "19.28, 23 Jul 2022" },
+                { "id": "kocak-f87sd6s86", "author": false, "message": "engga", "postedAt": "19.28, 23 Jul 2022" },
+                { "id": "kocak-f87sd6s86", "author": true, "message": "oh ydh.", "postedAt": "19.28, 23 Jul 2022" }
+            ],
+            "postedAt": "18.19, 23 Jul 2022"
+        },
+        {
+            "id": "kocak-fg09h8d09g7s07e",
+            "sender": "Anonymous",
+            "message": "Mabar stumble guys kuyyyyy",
+            "comments": [
+                { "id": "kocak-f87sd6s86", "author": true, "message": "hayukkkk", "postedAt": "16.45, 23 Jul 2022" },
+                { "id": "kocak-f87sd6s86", "author": false, "message": "gs", "postedAt": "16.51, 23 Jul 2022" }
+            ],
+            "postedAt": "16.38, 22 Jul 2022"
+        },
+        {
+            "id": "kocak-90b7c07s097fw09",
+            "sender": "Penggemar Berat",
+            "message": "Halo bang, kenal aku gak ?",
+            "comments": [
+                { "id": "kocak-f87sd6s86", "author": true, "message": "siapa lo", "postedAt": "12.28, 23 Jul 2022" },
+                { "id": "kocak-f87sd6s86", "author": false, "message": "tebak siapa hayooo", "postedAt": "12.30, 23 Jul 2022" }
+            ],
+            "postedAt": "12.08, 22 Jul 2022"
+        },
+        {
+            "id": "kocak-90b7c07s097fw09",
+            "sender": "BOCIL FF",
+            "message": "BANG GIP ALOK BANG BANG",
+            "comments": [
+                { "id": "kocak-f87sd6s86", "author": true, "message": "matamu gip alok", "postedAt": "10.42, 23 Jul 2022" },
+                { "id": "kocak-f87sd6s86", "author": false, "message": "kwkkkkkkw", "postedAt": "10.49, 23 Jul 2022" }
+            ],
+            "postedAt": "10.39, 21 Jul 2022"
+        },
+        {
+            "id": "kocak-90b7c07s097fw09",
+            "sender": "Anonymous",
+            "message": "bang gak maen bang ?",
+            "comments": [
+                { "id": "kocak-f87sd6s86", "author": true, "message": "kagak cuy", "postedAt": "10.42, 23 Jul 2022" }
+            ],
+            "postedAt": "09.28, 20 Jul 2022"
+        }
+    ]
+    
+}

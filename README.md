@@ -1,2 +1,2 @@
-# only-me-api
-Only Me REST API
+# OnlyMe API
+OnlyMe API for OnlyMe Application
